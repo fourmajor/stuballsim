@@ -1,0 +1,2 @@
+# stuballsim
+Basketball league simulator
